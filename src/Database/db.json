@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Glenn Maxwell",
+      "username": "BigShow",
+      "email": "glenn@email.com",
+      "phone": "97797979",
+      "id": 1
+    },
+    {
+      "name": "virat",
+      "username": "kolhi",
+      "email": "virat@email.com",
+      "phone": "43242343253254",
+      "id": 2
+    },
+    {
+      "name": "aaaron",
+      "username": "finch",
+      "email": "finch@gmail.com",
+      "phone": "89769883111",
+      "id": 3
+    }
+  ]
+}
